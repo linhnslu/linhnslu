@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I am currently studying Health Data Science. I am proficient in R, have working experience with Python, and am familiar with SQL. 
+🔭 My primary interest lies in leveraging AI for predictive modeling in healthcare and exploring innovative solutions to health-related challenges.
 <!--
 **linhnslu/linhnslu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
