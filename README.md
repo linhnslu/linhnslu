@@ -6,7 +6,7 @@
 
 🔭 My primary interest lies in leveraging AI for predictive modeling in healthcare and exploring innovative solutions to health-related challenges.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhnslu&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lin Htet Naing&theme=tokyonight&show_icons=true)
 <!--
 **linhnslu/linhnslu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
