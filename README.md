@@ -1,3 +1,5 @@
+![Header](header-image.png)
+
 ## Hi there 👋
 🌱 I am currently studying Health Data Science. I am proficient in R, have working experience with Python, and am familiar with SQL.
 
