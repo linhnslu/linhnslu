@@ -1,0 +1,21 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  /* Medical/Tech Theme: Deep Navy Gradient or your Image */
+  background: linear-gradient(rgba(10, 25, 47, 0.9), rgba(10, 25, 47, 0.9)), 
+              url('../images/background.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  color: #e6edf3; /* Light text for dark background */
+}
+
+/* Make the main content area look like "Glass" */
+.wrapper {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
