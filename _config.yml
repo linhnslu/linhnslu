@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
 #theme: jekyll-theme-minimal
 title: "Dr. Lin Htet Naing"
 description: "Machine Learning & Health Data Science Projects"
