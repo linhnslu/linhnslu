@@ -1,14 +1,5 @@
-title: Dr. Lin Htet Naing | Data Scientist
-email: linhtet.naing@slu.edu, drlinhtetnaing@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Data Scientist and Machine Learning Engineer specializing in healthcare analytics and 
-  predictive modeling. Interested in leveraging AI for exploring innovative solutions to data-related challenges. 
-
-# Site Settings
-theme: minima # Or "jekyll-theme-cayman" for a built-in clean theme
-remote_theme: mmistakes/minimal-mistakes # Optional: Use this for a pro look
-
-# Navigation links
-header_pages:
-  - about.md
-  - projects.md
+theme: jekyll-theme-minimal
+title: "Dr. Lin Htet Naing"
+description: "Machine Learning & Health Data Science Projects"
+logo: /assets/profile.jpg    # optional
+show_downloads: false
