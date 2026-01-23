@@ -18,7 +18,7 @@ Predicting gallstone disease using clinical, laboratory, and body composition fe
 
 ---
 
-### **2. Obesity Classification & BMI Regression**
+### **2. Heart Failure Inferential Modeling**
 Machine learning models for classification and continuous prediction.  
 **[View Project →](/projects/obesity.html)**
 
