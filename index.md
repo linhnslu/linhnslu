@@ -20,7 +20,7 @@ Predicting gallstone disease using clinical, laboratory, and body composition fe
 
 ### **2. Heart Failure Inferential Modeling**
 Machine learning models for classification and continuous prediction.  
-**[View Project →](/projects/obesity.html)**
+**[View Project →](https://linhnslu.github.io/heart_failure_clinical_records/)**
 
 ---
 
