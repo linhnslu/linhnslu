@@ -2,7 +2,7 @@
 
 # 🩺 Health Data Scientist
 
-🌱 **Currently specializing in Health Data Science**, I bridge the gap between complex health data and actionable insights. My focus is on building predictive models that solve real-world healthcare challenges.
+🌱 **Health Data Science Graduate Student, Saint Louis University, USA**, I bridge the gap between complex health data and actionable insights. My focus is on building predictive models that solve real-world healthcare challenges.
 
 ---
 
